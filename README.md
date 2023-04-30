@@ -1,5 +1,5 @@
 # Alipay Example
-
+Use Alipay payment function through `order_info` in Android
 # Screenshots
 
 ![One](/screenshots/1.png)
