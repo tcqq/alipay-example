@@ -1,4 +1,4 @@
-package com.example.alipayexample
+package com.example.alipay
 
 import android.os.Bundle
 import android.widget.Toast
@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.lifecycleScope
 import com.alipay.sdk.app.EnvUtils
-import com.example.alipayexample.databinding.ActivityMainBinding
+import com.example.alipay.databinding.ActivityMainBinding
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {

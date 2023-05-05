@@ -1,4 +1,4 @@
-package com.example.alipayexample
+package com.example.alipay
 
 import org.junit.Test
 

@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.alipayexample'
+    namespace 'com.example.alipay'
     compileSdk 33
 
     defaultConfig {

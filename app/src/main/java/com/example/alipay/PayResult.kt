@@ -1,4 +1,4 @@
-package com.example.alipayexample
+package com.example.alipay
 
 /**
  * @author Perry Lance

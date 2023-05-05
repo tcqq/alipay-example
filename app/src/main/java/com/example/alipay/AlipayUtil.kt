@@ -1,10 +1,8 @@
-package com.example.alipayexample
+package com.example.alipay
 
 import android.app.Activity
-import androidx.lifecycle.LifecycleCoroutineScope
 import com.alipay.sdk.app.PayTask
 import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
 /**
