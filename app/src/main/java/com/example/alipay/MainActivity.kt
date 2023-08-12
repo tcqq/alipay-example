@@ -46,6 +46,6 @@ class MainActivity : AppCompatActivity() {
     companion object {
         private const val PAYMENT_SUCCESSFUL = "9000"
         private const val PAYMENT_PROCESSING = "8000"
-        private const val PAYMENT_CANCELED = "60001"
+        private const val PAYMENT_CANCELED = "6001"
     }
 }
